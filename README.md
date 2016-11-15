@@ -4,9 +4,8 @@ Hi Collaborators,
 
 Please add your name below. 
 
-For example, Chen Zhong
-
 Chen Zhong
+
 
 Test
 
@@ -17,3 +16,6 @@ Test 3
 Test 4
 
 Jonathan Glassburn
+
+Andrew Blumm
+>>>>>>> 7c042c1aeebe2db9299b964e974327db5a442c58
