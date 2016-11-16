@@ -36,3 +36,4 @@ Savannah Howard
 Lindsey Thomas
 Jenna Fry
 Lake Wickersham
+Gavin LaDue
