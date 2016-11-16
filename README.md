@@ -33,3 +33,4 @@ Ashley Lovins
 Katelyn Dunham
 
 Savannah Howard
+Lindsey Thomas
