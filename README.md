@@ -6,7 +6,6 @@ Please add your name below.
 
 Chen Zhong
 
-
 Jonathan Glassburn
 
 Andrew Blumm
@@ -20,7 +19,6 @@ Jenna Fry
 
 Jamie Howery
 
-
-
 Noah Zunick
 
+Kyler Spencer
