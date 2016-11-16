@@ -53,3 +53,5 @@ Joshua E. Conrad
 Malynn Thompson
 Jasmine Vincent
 Nathaniel Henke
+
+Conner Sellers
