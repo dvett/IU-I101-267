@@ -51,3 +51,4 @@ Rachel Banan
 Joshua E. Conrad
 
 Malynn Thompson
+Jasmine Vincent
