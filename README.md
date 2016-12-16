@@ -17,7 +17,7 @@ Justin Alberts
 Jenna Fry
 
 Jamie Howery
-
+Devin Vetter
 Noah Zunick
 
 Kyler Spencer
